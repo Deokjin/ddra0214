@@ -1,0 +1,92 @@
+#firstd>img {
+    border-radius:50%;
+    display : block;
+    margin-top : 50px;
+    margin-left : auto;
+    margin-right : auto;
+    margin-bottom : 10px;
+    padding-top:40px;
+    width : 500px
+}
+
+#firstd>h1 {
+    text-align : center;
+    color : rgba(221, 108, 43, 0.781);
+    font-size : 50px;
+    font-family: 'Schoolbell', cursive;
+
+}
+
+#firstd>h2 {
+    text-align : center;
+    color : rgba(221, 108, 43, 0.781);
+    font-size : 50px;
+    font-family: 'Schoolbell', cursive;
+    margin-top:5px;
+    margin-bottom:5px;
+
+}
+
+#secondd>h1 {
+    text-align : left;
+    font-size : 40px;
+    margin-top : 0px;
+    margin-bottom:0px;
+}
+
+#secondd>a {
+    text-align : center
+}
+
+#thirdd>a {
+    text-align : center
+}
+
+#thirdd>p {
+    text-align : center
+}
+
+
+
+#h1intro {
+    text-align : center;
+    font-family: 'Schoolbell', cursive;
+    font-size : 25px;
+    padding-bottom : 25px
+
+}
+
+#info {
+    text-align : left;
+    margin : 5% 20% 5% 20%;
+    font-family: 'Wendy One', sans-serif;
+
+}
+
+#sh1 {
+    text-align : center;
+    margin-top:0px;
+    margin-bottom : 0px;
+    font-family: 'Wendy One', sans-serif;
+}
+
+#contact {
+    margin-top : 30px;
+    margin-bottom : 30px;
+    font-size : 50px;
+    font-family: 'Wendy One', sans-serif;
+}
+
+.thirdd {
+    text-align : center;
+    font-size : 30px;
+    font-family: 'Wendy One', sans-serif;
+    padding-top : 30px;
+    padding-bottom:30px;
+    
+}
+
+
+
+
+
